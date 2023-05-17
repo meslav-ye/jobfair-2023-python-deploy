@@ -7,7 +7,7 @@ replicaCount: 1
 image:
   repository: mislavhuddle/helloflask
   pullPolicy: IfNotPresent
-  tag: "latest"
+  tag: f5779e26b6ea4dc2eeb27bbac45a47ba16792717
 
 imagePullSecrets: []
 nameOverride: ""
